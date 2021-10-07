@@ -10,7 +10,7 @@ The cascade describes how styles interact with one another. The styles make up t
 
 If we were to illustrate this, the relationship between the three sort of forms a cascade:
 
-img1 HERE
+img1 HE
 
 There can be multiple sheets all continuing multiple styles all associated with one HTML document. The combination of those and the processes of figuring out what styles take precedence to style what elements is called the cascade (That first “C” in CSS).
 
